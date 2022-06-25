@@ -24,6 +24,7 @@ module.exports = {
     'react'
   ],
   rules: {
-    'react/react-in-jsx-scope': RULES.off
+    'react/react-in-jsx-scope': RULES.off,
+    'react/prop-types': RULES.off
   }
 }
