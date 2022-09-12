@@ -1,9 +1,9 @@
-import Map from './components/Map'
+import RouteApp from './routes'
 
 function App () {
   return (
     <div className="App">
-      <Map />
+      <RouteApp />
     </div>
   )
 }
