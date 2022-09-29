@@ -1,10 +1,11 @@
+import { StoreProvider } from './context/AppContext'
 import RouteApp from './routes'
 
 function App () {
   return (
-    <div className="App">
+    <StoreProvider>
       <RouteApp />
-    </div>
+    </StoreProvider>
   )
 }
 
