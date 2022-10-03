@@ -1,10 +1,10 @@
 import { StoreProvider } from './context/AppContext'
-import RouteApp from './routes'
+import Map from './pages/Map'
 
 function App () {
   return (
     <StoreProvider>
-      <RouteApp />
+      <Map />
     </StoreProvider>
   )
 }
