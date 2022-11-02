@@ -12,7 +12,7 @@ const MapContainer = () => {
     <div className='map--container'>
       <MapWrapper
         center={[-0.719605, -78.859488]}
-        zoom={7}
+        zoom={7.4}
         style={stylesMap}
       >
         <TileLayer

@@ -69,5 +69,7 @@ export const coordinates = [
   { lng: -2.129313, lat: -79.896299, name: 'Sauces9' },
   { lng: 0.070108, lat: -80.055469, name: 'Pedernales' },
   { lng: -0.932994, lat: -78.618516, name: 'Latacunga' },
-  { lng: -2.195168, lat: -79.886969, name: 'La bahia' }
+  { lng: -2.195168, lat: -79.886969, name: 'La bahia' },
+  { lng: -2.913186, lat: -79.031674, name: 'Don Bosco' },
+  { lng: -1.554775, lat: -79.751788, name: 'Vinces' }
 ]
