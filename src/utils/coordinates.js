@@ -8,7 +8,7 @@ export const coordinates = [
   { lng: -0.129417, lat: -78.501561, name: 'Los hermanos' },
   { lng: -0.201933, lat: -78.498722, name: 'Santa clara' },
   { lng: -0.318252, lat: -78.550538, name: 'Nueva Aurora' },
-  { lng: 0.042383, lat: -78.145634, name: 'Cayambe' },
+  { lng: 0.0392903, lat: -78.1434266, name: 'Cayambe' },
   { lng: -0.335313, lat: -78.543055, name: 'Santo tomas' },
   { lng: -0.273783, lat: -78.537997, name: 'Mayorista' },
   { lng: -0.267770, lat: -78.533749, name: 'Ajavi' },
@@ -64,5 +64,8 @@ export const coordinates = [
   { lng: -2.913186, lat: -79.031674, name: 'Don Bosco' },
   { lng: -1.554775, lat: -79.751788, name: 'Vinces' },
   { lng: -0.2013807, lat: -78.431662, name: 'Cumbaya' },
-  { lng: 0.35173121094703674, lat: -78.12374877929688, name: 'Ibarra2' }
+  { lng: 0.344980, lat: -78.122626, name: 'Ibarra' },
+  { lng: 0.35173121094703674, lat: -78.12374877929688, name: 'Ibarra2' },
+  { lng: -0.0926452, lat: -78.4529472, name: 'Carapungo2' },
+  { lng: -0.145134, lat: -78.474815, name: 'Los alamos' }
 ]
