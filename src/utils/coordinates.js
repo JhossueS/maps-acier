@@ -27,6 +27,7 @@ export const coordinates = [
   { lng: -0.123232, lat: -78.485438, name: 'Real audiencia' },
   { lng: -1.250781, lat: -78.631707, name: 'ASjuegos' },
   { lng: -1.272140, lat: -78.624390, name: 'ASjuegos2' },
+  { lng: -1.3976379, lat: -78.4245297, name: 'ASjuegos3' },
   { lng: -0.998051, lat: -77.813433, name: 'Tena' },
   { lng: 10.583198, lat: -71.649620, name: 'San francisco', country: 'VE' },
   { lng: -2.194060, lat: -79.903771, name: 'Ayacucho' },
@@ -67,6 +68,8 @@ export const coordinates = [
   { lng: -0.145134, lat: -78.474815, name: 'Los alamos' },
   { lng: -0.059332, lat: -78.345255, name: 'Guayllabamba1' },
   { lng: -0.063239, lat: -78.353548, name: 'Guayllabamba2' },
-  { lng: -0.162942, lat: -78.317593, name: 'Yaruqui' }
+  { lng: -0.162942, lat: -78.317593, name: 'Yaruqui' },
+  { lng: -2.893417, lat: -78.9989719, name: 'Pungo CUENCA' },
+  { lng: -1.2762193, lat: -78.629947, name: 'Huachichico' }
 
 ]
