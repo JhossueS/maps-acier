@@ -42,13 +42,10 @@ export const coordinates = [
   { lng: -0.092380, lat: -78.471092, name: 'Carcelen alto' },
   { lng: -3.260208, lat: -79.955001, name: 'Machala centro' },
   { lng: -0.052451, lat: -78.774649, name: 'Mindo' },
-  { lng: -0.094877, lat: -78.453254, name: 'Pungo' },
   { lng: -0.076104, lat: -78.465723, name: 'Carcelen alto' },
   { lng: -1.672798, lat: -78.653601, name: 'RioBamba' },
-  { lng: -1.025065, lat: -79.465882, name: 'Quevedo' },
   { lng: -2.896548, lat: -79.024431, name: 'Cuenca' },
   { lng: -0.162750, lat: -78.474055, name: 'Rio coca' },
-  { lng: -0.327534, lat: -78.447113, name: 'Sangolqui' },
   { lng: -0.251915, lat: -79.171068, name: 'Santo domingo' },
   { lng: -0.227288, lat: -78.338400, name: 'Pifo' },
   { lng: -2.090720, lat: -79.922748, name: 'Mucholote' },
@@ -67,5 +64,9 @@ export const coordinates = [
   { lng: 0.344980, lat: -78.122626, name: 'Ibarra' },
   { lng: 0.35173121094703674, lat: -78.12374877929688, name: 'Ibarra2' },
   { lng: -0.0926452, lat: -78.4529472, name: 'Carapungo2' },
-  { lng: -0.145134, lat: -78.474815, name: 'Los alamos' }
+  { lng: -0.145134, lat: -78.474815, name: 'Los alamos' },
+  { lng: -0.059332, lat: -78.345255, name: 'Guayllabamba1' },
+  { lng: -0.063239, lat: -78.353548, name: 'Guayllabamba2' },
+  { lng: -0.162942, lat: -78.317593, name: 'Yaruqui' }
+
 ]
