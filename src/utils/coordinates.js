@@ -70,6 +70,6 @@ export const coordinates = [
   { lng: -0.063239, lat: -78.353548, name: 'Guayllabamba2' },
   { lng: -0.162942, lat: -78.317593, name: 'Yaruqui' },
   { lng: -2.893417, lat: -78.9989719, name: 'Pungo CUENCA' },
-  { lng: -1.2762193, lat: -78.629947, name: 'Huachichico' }
+  { lng: -1.3304011, lat: -78.5410915, name: 'Huachichico, pilileo' }
 
 ]
