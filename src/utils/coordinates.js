@@ -13,6 +13,7 @@ export const coordinates = [
   { lng: -0.268978, lat: -78.533749, name: 'Ajavi' },
   /*   { lng: -0.262840, lat: -78.541591, name: 'Toacazo' }, */
   { lng: -0.298444, lat: -78.547341, name: 'Quitumbe' },
+<<<<<<< HEAD
   /*   { lng: -0.219018, lat: -78.521896, name: 'San Roque' }, */
   { lng: -0.22678, lat: -78.512216, name: 'Plaza santo domingo' },
   { lng: -0.225989, lat: -78.507009, name: 'La marin' },
@@ -23,6 +24,18 @@ export const coordinates = [
   /*   { lng: -0.184368, lat: -78.491866, name: 'UTE', description: 'Mal ubicacion' }, */
   { lng: -0.119682, lat: -78.489949, name: 'Bella vista' },
   //   { lng: -0.114197, lat: -78.494627, name: 'cotocollao' },
+=======
+  { lng: -0.219018, lat: -78.521896, name: 'San Roque' },
+  { lng: -0.224970, lat: -78.512216, name: 'Plaza santo domingo' },
+  { lng: -0.224117, lat: -78.507009, name: 'La marin' },
+  { lng: -0.249962, lat: -78.531688, name: 'Atahualpa' },
+  { lng: -0.241842, lat: -78.521016, name: 'Rodrigo de chavez' },
+  { lng: -0.143471, lat: -78.496483, name: 'La florida' },
+  { lng: -0.189801, lat: -78.510251, name: 'La comuna' },
+  { lng: -0.184368, lat: -78.491866, name: 'UTE' },
+  { lng: -0.114682, lat: -78.489949, name: 'Bella vista' },
+  { lng: -0.114197, lat: -78.494627, name: 'cotocollao' },
+>>>>>>> parent of 6847507 (updated)
   { lng: -0.123232, lat: -78.485438, name: 'Real audiencia' },
   { lng: -1.270781, lat: -78.631707, name: 'ASjuegos' },
   { lng: -1.24214, lat: -78.62439, name: 'ASjuegos2' },
@@ -40,6 +53,7 @@ export const coordinates = [
   { lng: -2.198363, lat: -79.810875, name: 'El recreo' },
   { lng: -0.213892, lat: -78.407759, name: 'Tumbaco' },
   { lng: -2.184685, lat: -79.846427, name: 'Bufalo1' },
+<<<<<<< HEAD
   // { lng: -2.177379, lat: -79.849087, name: 'Bufalo2',
   { lng: -0.06238, lat: -78.471092, name: 'Carcelen alto' },
   { lng: -3.260208, lat: -79.955001, name: 'Machala centro' },
@@ -66,4 +80,39 @@ export const coordinates = [
 
   { lng: -0.6993544, lat: -80.0960197, name: 'chone' }
   // { lng: -1.3304011, lat: -78.5410915, name: 'Huachichico, pilileo' }
+=======
+  { lng: -2.177379, lat: -79.849087, name: 'Bufalo2' },
+  { lng: -0.092380, lat: -78.471092, name: 'Carcelen alto' },
+  { lng: -3.260208, lat: -79.955001, name: 'Machala centro' },
+  { lng: -0.052451, lat: -78.774649, name: 'Mindo' },
+  { lng: -0.076104, lat: -78.465723, name: 'Carcelen alto' },
+  { lng: -1.672798, lat: -78.653601, name: 'RioBamba' },
+  { lng: -2.896548, lat: -79.024431, name: 'Cuenca' },
+  { lng: -0.162750, lat: -78.474055, name: 'Rio coca' },
+  { lng: -0.251915, lat: -79.171068, name: 'Santo domingo' },
+  { lng: -0.227288, lat: -78.338400, name: 'Pifo' },
+  { lng: -2.090720, lat: -79.922748, name: 'Mucholote' },
+  { lng: -0.953319, lat: -78.696289, name: 'Pujulí' },
+  { lng: -2.092368, lat: -79.903438, name: 'Vergeles' },
+  { lng: -0.954402, lat: -80.716773, name: 'Juve2' },
+  { lng: -0.953329, lat: -80.708011, name: 'Juve1' },
+  { lng: -2.154026, lat: -79.911850, name: 'Urbanor' },
+  { lng: 0.805638, lat: -77.725785, name: 'Tulcan' },
+  { lng: -2.129313, lat: -79.896299, name: 'Sauces9' },
+  { lng: -0.932994, lat: -78.618516, name: 'Latacunga' },
+  { lng: -2.195168, lat: -79.886969, name: 'La bahia' },
+  { lng: -2.913186, lat: -79.031674, name: 'Don Bosco' },
+  { lng: -1.554775, lat: -79.751788, name: 'Vinces' },
+  { lng: -0.2013807, lat: -78.431662, name: 'Cumbaya' },
+  { lng: 0.344980, lat: -78.122626, name: 'Ibarra' },
+  { lng: 0.35173121094703674, lat: -78.12374877929688, name: 'Ibarra2' },
+  { lng: -0.0926452, lat: -78.4529472, name: 'Carapungo2' },
+  { lng: -0.145134, lat: -78.474815, name: 'Los alamos' },
+  { lng: -0.059332, lat: -78.345255, name: 'Guayllabamba1' },
+  { lng: -0.063239, lat: -78.353548, name: 'Guayllabamba2' },
+  { lng: -0.162942, lat: -78.317593, name: 'Yaruqui' },
+  { lng: -2.893417, lat: -78.9989719, name: 'Pungo CUENCA' },
+  { lng: -1.3304011, lat: -78.5410915, name: 'Huachichico, pilileo' }
+
+>>>>>>> parent of 6847507 (updated)
 ]
